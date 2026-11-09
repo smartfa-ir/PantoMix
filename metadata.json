@@ -1,0 +1,6 @@
+{
+  "name": "MIME MASTER AI",
+  "description": "Next-generation AI-powered Persian Charades & Pantomime party game with MIMEO mascot, AI Game Master, and dynamic difficulty.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
